@@ -1,0 +1,6 @@
+ammu 1234
+akku 2345
+andria	3456
+vivek	1234
+ammus	12345
+akkus	12345
